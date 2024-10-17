@@ -8,7 +8,7 @@ pygcl=0.1.2
 torch-geometric=2.5.3
 ```
 
-##Training
+## Training
 ```
 #Test on IMDB-M dataset
 cd run_code
